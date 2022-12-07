@@ -1,0 +1,5 @@
+project: azure-sdk
+target: azure-sdk
+cmds:
+  - cmd: /fuzz_connstr
+    env: {}
